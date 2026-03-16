@@ -21,7 +21,7 @@ Tools: Git, GitHub, VS Code
 
 ## Setup Instructions
 1. Clone the repository  
-git clone https://github.com/yourusername/second-brain.git  
+git clone https://github.com/saichandu1528/secondBrain
 
 2. Navigate to the project folder  
 cd second-brain  
