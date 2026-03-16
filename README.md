@@ -68,4 +68,4 @@ Second Brain provides a modern AI-powered approach to knowledge management. By c
 
 ##  Author
 Sai Chandu  
-MERN Stack Developer | Java Developer | Full Stack Developer
+MERN Stack Developer| Full Stack Developer
