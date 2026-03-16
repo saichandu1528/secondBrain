@@ -5,7 +5,7 @@ export default function MainPage() {
   return (
     <div className="relative flex flex-col items-center justify-center min-h-screen gap-6 bg-linear-to-br from-blue-50 to-indigo-100 overflow-hidden">
       
-      {/* Navbar at Top */}
+    
       <nav className="fixed top-0 left-0 right-0 bg-white/90 backdrop-blur-md z-50 shadow-lg border-b border-gray-200">
         <div className="max-w-4xl mx-auto px-6 py-4">
           <div className="flex justify-between items-center">
